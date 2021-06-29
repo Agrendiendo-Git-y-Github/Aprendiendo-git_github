@@ -8,6 +8,11 @@ def mult(num1,num2):
         total=num1 * num2
         return total
 
+def div(num1,num2):
+     total=num1 / num2
+     return total
+
 print(mult(12,65))
 
 print(mult(4,65))
+print(f"LA DIVICION ES IGUAL A : {div(20,4)}")
