@@ -9,3 +9,5 @@ def mult(num1,num2):
         return total
 
 print(mult(12,65))
+
+print(mult(4,65))
